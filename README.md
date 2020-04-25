@@ -1,2 +1,2 @@
 # Practicing_Golang
-A simple Rest API
+A simple Golang Rest API
